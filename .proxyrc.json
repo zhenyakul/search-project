@@ -1,0 +1,8 @@
+{
+    "/api": {
+      "target": "https://pixabay.com/api/",
+      "pathRewrite": {
+        "^/api": ""
+      }
+    }
+  }
